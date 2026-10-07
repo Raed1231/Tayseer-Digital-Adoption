@@ -93,6 +93,11 @@ The 90-day review asks three questions: did adoption improve, at what cost, and 
 - **Dataset:** `tayseer_services_synthetic.csv`
 - **Presentation:** `Tayseer_Presentation_EN.pptx` (7 content slides with speaker notes)
 - **Tools:** Tableau, following the Lab 4 Tableau steps student guide
+
+## Acknowledgment
+
+This project was completed as part of a [SDAIA Academy](https://github.com/SDAIAAcademy) training programme Data Visualization & Storytelling.
+
 ## Team
  
 - Rayan Aloraydi
